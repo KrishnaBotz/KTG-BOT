@@ -24,7 +24,7 @@ hachoir
 python-decouple 
 ffmpeg
 youtube_search
-coroutline
+coroutine
 asyncio
 pymongo[srv]==3.12.3 
 motor==2.5.1 
