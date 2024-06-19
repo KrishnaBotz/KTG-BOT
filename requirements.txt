@@ -14,7 +14,7 @@ jinja2
 apscheduler
 pyshorteners
 colorama
-NumPy 
+NumPy==1.26.4 
 wheel 
 ujson 
 wget 
